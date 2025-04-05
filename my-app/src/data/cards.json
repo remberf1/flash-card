@@ -1,0 +1,13 @@
+
+  [
+      { "id": 1, "question": "What is React?", "answer": "React is a JavaScript library for building user interfaces." },
+      { "id": 2, "question": "What is JSX?", "answer": "JSX is a syntax extension for JavaScript that looks similar to HTML, and is used with React." },
+      { "id": 3, "question": "What is a component?", "answer": "A component is a reusable piece of code that represents a part of the UI in React." },
+      { "id": 4, "question": "What is state in React?", "answer": "State is a built-in object that allows components to maintain and modify their own data." },
+      { "id": 5, "question": "What are props in React?", "answer": "Props (short for properties) are inputs to a component that are passed down from its parent component." },
+      { "id": 6, "question": "What is the difference between state and props?", "answer": "State is managed within the component, while props are passed to components by their parent." },
+      { "id": 7, "question": "What is a functional component?", "answer": "A functional component is a JavaScript function that returns JSX and is used to define UI elements." },
+      { "id": 8, "question": "What is a class component?", "answer": "A class component is a JavaScript class that extends React.Component and can hold state and lifecycle methods." },
+      { "id": 9, "question": "What are React hooks?", "answer": "Hooks are functions that let you use state and other React features in functional components." },
+      { "id": 10, "question": "What is the virtual DOM in React?", "answer": "The virtual DOM is an in-memory representation of the actual DOM elements, used to improve performance in React by minimizing direct DOM manipulation." }
+  ]
